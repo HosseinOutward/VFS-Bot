@@ -1,5 +1,6 @@
 # VFS version 2 (new site)
-for VFS Global v2, contact me. This code is for VFS v1
+for VFS Global v2, contact me. the code is private for that one. 
+This code is modified for VFS v1 (originally made by @hnavidan and @jeromin) 
 
 # VFS Appointment Bot v1
 This Python script automatically checks available VFS appointments and notifies the earliest opening via Telegram.
