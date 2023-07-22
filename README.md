@@ -1,7 +1,7 @@
 # VFS version 2 (new site)
 For VFS Global v2, contact me. the v2 code which bypasses the captcha and does everything automatically is private at the moment.
 
-This code is modified for VFS v1 (originally made by @hnavidan and @jeromin) 
+This repo is modified for VFS v1 (originally made by @hnavidan and @jeromin) 
 
 # VFS Appointment Bot v1
 This Python script automatically checks available VFS appointments and notifies the earliest opening via Telegram.
