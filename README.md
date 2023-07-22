@@ -1,7 +1,7 @@
 # VFS version 2 (new site)
 For VFS Global v2, contact me. the v2 code which bypasses the captcha and does everything automatically is private at the moment.
 
-https://github.com/HosseinOutward/VFS-Bot-V2
+the (private) v2 repo: https://github.com/HosseinOutward/VFS-Bot-V2
 
 
 # VFS Appointment Bot v1
